@@ -1,0 +1,10 @@
+﻿  HW32.cpp
+C:\prj\HW32\HW32\HW32.cpp(148,5): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_CALL"
+C:\prj\HW32\HW32\HW32.cpp(149,5): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_CALL"
+C:\prj\HW32\HW32\HW32.cpp(150,5): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_CALL"
+  Создание кода
+  256 of 1187 functions (21.6%) were compiled, the rest were copied from previous compilation.
+    227 functions were new in current compilation
+    149 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  HW32.vcxproj -> C:\prj\HW32\x64\Release\HW32.exe
